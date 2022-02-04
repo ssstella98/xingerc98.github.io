@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Xinger Stella Cao</title>
+    <link>https://ssstella98.github.io/xingerc98.github.io/project/</link>
+    <description>Recent content in Projects on Xinger Stella Cao</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ssstella98.github.io/xingerc98.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Number Pioneer</title>
+      <link>https://ssstella98.github.io/xingerc98.github.io/project/number-pioneer/</link>
+      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ssstella98.github.io/xingerc98.github.io/project/number-pioneer/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;A mathematical boad game design for elementary school students to practice arithmetic operations.&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

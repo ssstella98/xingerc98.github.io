@@ -1,28 +1,41 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home of Xinger Cao 👋 on Xinger Cao | Portfolio</title>
+    <title>Home of Xinger Cao 👋 on Xinger Stella Cao</title>
     <link>https://ssstella98.github.io/xingerc98.github.io/</link>
-    <description>Recent content in Home of Xinger Cao 👋 on Xinger Cao | Portfolio</description>
+    <description>Recent content in Home of Xinger Cao 👋 on Xinger Stella Cao</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 02 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ssstella98.github.io/xingerc98.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 03 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ssstella98.github.io/xingerc98.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
-      <link>https://ssstella98.github.io/xingerc98.github.io/posts/my-first-post/</link>
-      <pubDate>Sun, 02 Jan 2022 19:28:15 -0500</pubDate>
+      <title>My Resume</title>
+      <link>https://ssstella98.github.io/xingerc98.github.io/myresume/</link>
+      <pubDate>Tue, 04 Jan 2022 22:15:15 -0500</pubDate>
       
-      <guid>https://ssstella98.github.io/xingerc98.github.io/posts/my-first-post/</guid>
-      <description></description>
+      <guid>https://ssstella98.github.io/xingerc98.github.io/myresume/</guid>
+      <description>English version 中文简历</description>
+    </item>
+    
+    <item>
+      <title>Number Pioneer</title>
+      <link>https://ssstella98.github.io/xingerc98.github.io/project/number-pioneer/</link>
+      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ssstella98.github.io/xingerc98.github.io/project/number-pioneer/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;A mathematical boad game design for elementary school students to practice arithmetic operations.&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     
     <item>
       <title>About Me</title>
       <link>https://ssstella98.github.io/xingerc98.github.io/about/</link>
-      <pubDate>Sun, 02 Jan 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 24 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>https://ssstella98.github.io/xingerc98.github.io/about/</guid>
-      <description>Hihi~ I&amp;rsquo;m Stella.</description>
+      <description>Nice to meet you!!🧸 I’m Stella from Shanghai, China.
+With a formal education in educational technology and psychology, I am passionate about implementing educational interventions with emerging technologies.
+I am a master’s candidate for the LST (Learning Sciences and Technologies) program at the University of Pennsylvania. Besides, I am currently a user operationist intern working at EdwithU, a Chinese online community of education practitioners. Previous, I was a product manager intern at Jiliguala, mainly assisting in designing a gamification learning app for preschoolers in China.</description>
     </item>
     
   </channel>
